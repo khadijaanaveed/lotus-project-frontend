@@ -1,1 +1,1 @@
-# lotus-project-frontend
+# lotus-furniture-backend
